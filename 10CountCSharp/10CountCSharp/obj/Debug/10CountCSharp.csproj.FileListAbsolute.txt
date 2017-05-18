@@ -1,0 +1,6 @@
+C:\Users\MRSWHITE\Desktop\CSC 253\10CountCSharp\10CountCSharp\bin\Debug\10CountCSharp.exe.config
+C:\Users\MRSWHITE\Desktop\CSC 253\10CountCSharp\10CountCSharp\bin\Debug\10CountCSharp.exe
+C:\Users\MRSWHITE\Desktop\CSC 253\10CountCSharp\10CountCSharp\bin\Debug\10CountCSharp.pdb
+C:\Users\MRSWHITE\Desktop\CSC 253\10CountCSharp\10CountCSharp\obj\Debug\10CountCSharp.csprojResolveAssemblyReference.cache
+C:\Users\MRSWHITE\Desktop\CSC 253\10CountCSharp\10CountCSharp\obj\Debug\10CountCSharp.exe
+C:\Users\MRSWHITE\Desktop\CSC 253\10CountCSharp\10CountCSharp\obj\Debug\10CountCSharp.pdb
